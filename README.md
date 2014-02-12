@@ -1,6 +1,6 @@
 # DogeHelper
 
-Access to `doge` and `doge_meta_tag` rails view helpers
+Access to `doge` and `doge_meta_tag` rails view helpers. Thanks to Earth People for inspiration http://labs.earthpeople.se/2014/02/wow-such-viewstate/
 
 ## Installation
 
