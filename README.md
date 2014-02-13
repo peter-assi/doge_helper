@@ -1,6 +1,11 @@
 # DogeHelper
 
-Access to `doge` and `doge_meta_tag` rails view helpers. Thanks to Earth People for inspiration http://labs.earthpeople.se/2014/02/wow-such-viewstate/
+Access to `doge` and `doge_meta_tag` rails view helpers. 
+
+![wowser screenshot](/wowser.png)
+
+
+Thanks to Earth People for inspiration http://labs.earthpeople.se/2014/02/wow-such-viewstate/
 
 ## Installation
 
